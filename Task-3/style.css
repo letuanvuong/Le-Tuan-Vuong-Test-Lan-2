@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF;
+}
+
+canvas {
+  border: 2px solid #665664;
+  box-shadow: -4px -1px 60px -3px rgba(0, 0, 0, 0.75);
+}
